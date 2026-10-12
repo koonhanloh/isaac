@@ -1,0 +1,19 @@
+{
+  "id": "./simulator-001.html",
+  "name": "模拟人生模拟器",
+  "short_name": "模拟人生",
+  "description": "股票、职业与资产模拟游戏",
+  "lang": "zh-CN",
+  "start_url": "./simulator-001.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#edf2f0",
+  "theme_color": "#167577",
+  "prefer_related_applications": false,
+  "icons": [
+    { "src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
+
